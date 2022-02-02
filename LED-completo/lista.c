@@ -1,6 +1,4 @@
-//
-// Created by danie on 17/09/2021.
-//
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "lista.h"
