@@ -1,0 +1,3 @@
+C:/Users/gusta/Desktop/C/racional/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gusta/Desktop/C/racional/cmake-build-debug/CMakeFiles/racional.dir
+C:/Users/gusta/Desktop/C/racional/cmake-build-debug/CMakeFiles/rebuild_cache.dir
