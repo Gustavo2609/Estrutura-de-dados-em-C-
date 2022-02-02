@@ -1,6 +1,3 @@
-//
-// Created by danie on 17/09/2021.
-//
 
 #ifndef LISTAED_LISTA_H
 #define LISTAED_LISTA_H
